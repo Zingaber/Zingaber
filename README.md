@@ -77,7 +77,7 @@ From **3D geospatial visualizations** to open-source projects on climate and pub
 
 ## 🛠️ Technology Stack for Social Good
 
-<div align="center">
+<div align="left">
 
 ### **3D Visualization & Interactive Experiences**
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
