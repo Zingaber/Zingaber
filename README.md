@@ -205,13 +205,15 @@ From **3D geospatial visualizations** to open-source projects on climate and pub
 
 ---
 
-## 🏆 Featured Project: Ultimate India 3D Population Visualization
-
+🏆 Featured Project: Ultimate India 3D Population Visualization
 <div align="center">
-
-### 🗺️ [Democratizing India's Demographic Data](https://github.com/Zingaber/ultimate-india-3d-population-viz)
-
-<img src="https://via.placeholder.com/650x400/2C5F41/FFFFFF?text=Interactive+3D+India+Population+Map+for+Social+Good" width="650" alt="India 3D Visualization for Social Impact">
+🗺️ Democratizing India's Demographic Data
+Show Image
+Professional 3D Cartographic Visualization - Population density with accurate state boundaries
+Show Image
+Aerial cartographic view showing India's demographic patterns with tricolor gradient palette
+Show Image
+Coastline-emphasized render highlighting geographic features with sunset India color palette
 
 **A groundbreaking dual-approach visualization system that makes India's demographic data accessible to policymakers, researchers, and communities while respecting cultural context and promoting data sovereignty**
 
