@@ -22,9 +22,7 @@ From **3D geospatial visualizations** to open-source projects on climate and pub
 
 <div align="center">
 
-### 🌍 **BETTER DATA.**  
-### 📊 **BETTER DECISIONS.**  
-### 🤝 **BETTER LIVES.**
+### 🌍 **BETTER DATA.**  ### 📊 **BETTER DECISIONS.**  ### 🤝 **BETTER LIVES.**
 
 **A global network using data to achieve the Sustainable Development Goals — improving lives, fighting inequality, and promoting environmental sustainability.**
 
